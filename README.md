@@ -1,1 +1,1 @@
-# Scan-N-Code
+# Code Editor Sample
